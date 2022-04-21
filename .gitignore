@@ -64,3 +64,6 @@ testMain.py
 #VS Code
 .vscode/
 .DS_Store
+
+# documentation
+_build/
